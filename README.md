@@ -1,5 +1,4 @@
-# Analista-de-Pesquisa-Operacional
-Analista de Pesquisa Operacional | CD Cabreúva | Renner
+# Aprendizado de Máquina | Otimização
 
 ## Arquivos disponíveis
 
